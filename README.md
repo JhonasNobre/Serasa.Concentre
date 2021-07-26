@@ -18,6 +18,8 @@ Esse pacote faz uma consulta via string de dados e devolve um objeto tipado de t
 #### *Requisitos para a consulta*
 Usuário e Senha disponibilizados pelo SERASA Experian.
 
+#### *Pacote*
+Install-Package Serasa.Concentre -Version 1.0.0
 
 ## Estatísticas
 
